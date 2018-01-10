@@ -1,4 +1,4 @@
-class 7zTools < Formula
+class P7zTools < Formula
   desc "7z-tools (with completion)"
   homepage "https://github.com/Udyrfrykte/7z-tools/"
   url "https://github.com/Udyrfrykte/7z-tools.git",
