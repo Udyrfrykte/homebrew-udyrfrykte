@@ -3,6 +3,7 @@ class P7zTools < Formula
   homepage "https://github.com/Udyrfrykte/7z-tools/"
   url "https://github.com/Udyrfrykte/7z-tools.git",
       :branch => "master"
+  version "master"
 
   bottle :unneeded
 

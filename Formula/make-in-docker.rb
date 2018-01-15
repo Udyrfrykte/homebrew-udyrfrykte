@@ -3,6 +3,7 @@ class MakeInDocker < Formula
   homepage "https://github.com/Udyrfrykte/make-in-docker/"
   url "https://github.com/Udyrfrykte/make-in-docker.git",
       :branch => "master"
+  version "master"
 
   bottle :unneeded
 
