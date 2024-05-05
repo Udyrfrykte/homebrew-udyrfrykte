@@ -5,8 +5,6 @@ class P7zTools < Formula
       :branch => "master"
   version "master"
 
-  bottle :unneeded
-
   def install
     bash_completion.install "completion/bash/7z-tools"
     bin.install "7z-tools"
