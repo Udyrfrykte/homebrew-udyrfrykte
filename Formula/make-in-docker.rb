@@ -5,8 +5,6 @@ class MakeInDocker < Formula
       :branch => "master"
   version "master"
 
-  bottle :unneeded
-
   def install
     bash_completion.install "completion/bash/mid"
     bin.install "mid"
